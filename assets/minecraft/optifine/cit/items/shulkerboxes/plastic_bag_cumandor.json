@@ -134,8 +134,8 @@
 			"scale": [1, 0.73828, 1]
 		},
 		"fixed": {
-			"translation": [0, 8.75, 0],
-			"scale": [4, 4, 4]
+			"translation": [0, 5.5, -1.5],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
